@@ -25,17 +25,8 @@
 
 ---
 
-## 🏆 Лучшие проекты (настраиваемый список)
+## 🏆 Лучшие проекты 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zafije&repo=repo1&theme=radical)](https://github.com/Zafije/repo1)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zafije&repo=repo2&theme=radical)](https://github.com/Zafije/repo2)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zafije&repo=repo3&theme=radical)](https://github.com/Zafije/repo3)  
-
-<!-- Чтобы добавить ещё проекты, скопируй строку с карточкой и замени repoX -->
-
----
-
-## 📝 Как обновлять информацию
-
-Просто редактируй этот файл прямо на GitHub (или локально и пуши).  
-Все секции с комментариями (`<!-- ... -->`) подскажут, что где менять.
