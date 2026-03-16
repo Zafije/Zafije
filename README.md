@@ -12,7 +12,7 @@
   <!-- Если есть VK, добавь аналогично -->
 
 ## 🧊 Мои сайты:  
-  [![Ам-Ням](https://i.ibb.co/DDqYTq5x/3F-3F3F.webp)](https://zafije.github.io/Sait/)
+  [![Ам-Ням](https://i.ibb.co/DDqYTq5x/3F-3F3F.webp)](https://zafije.github.io/Sait/) - Нажми
 
 ---
 ## 🖼️ Гифка:
