@@ -11,11 +11,11 @@
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Zafije)  
   <!-- Если есть VK, добавь аналогично -->
 
-## Мои сайты:  
+## 🧊 Мои сайты:  
   [![Ам-Ням](https://i.ibb.co/DDqYTq5x/3F-3F3F.webp)](https://zafije.github.io/Sait/)
 
 ---
-## Гифка:
+## 🖼️ Гифка:
 ![Гифка](https://i.ibb.co/qFVh51HB/68285530a968e08c9ff1e6e26dc2631d.gif)  
 
 ---
